@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SIBSANKARMANNA/CALCULATOR/static/css/main.7b2a5ca6.css",
+    "main.js": "/SIBSANKARMANNA/CALCULATOR/static/js/main.68f61076.js",
+    "static/js/488.4a1e0ef4.chunk.js": "/SIBSANKARMANNA/CALCULATOR/static/js/488.4a1e0ef4.chunk.js",
+    "index.html": "/SIBSANKARMANNA/CALCULATOR/index.html",
+    "main.7b2a5ca6.css.map": "/SIBSANKARMANNA/CALCULATOR/static/css/main.7b2a5ca6.css.map",
+    "main.68f61076.js.map": "/SIBSANKARMANNA/CALCULATOR/static/js/main.68f61076.js.map",
+    "488.4a1e0ef4.chunk.js.map": "/SIBSANKARMANNA/CALCULATOR/static/js/488.4a1e0ef4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2a5ca6.css",
+    "static/js/main.68f61076.js"
+  ]
+}
