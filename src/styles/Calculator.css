@@ -1,0 +1,24 @@
+.calculator {
+    margin: 2rem auto;
+    padding: 1rem;
+    max-width: 400px;
+    background: #e6e0e0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .calculator-display {
+    font-size: 2rem;
+    background: #c7c3c3;
+    padding: 0.5rem;
+    text-align: right;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    min-height: 50px;
+  }
+  
+  .calculator-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5rem;
+  }
